@@ -1,2 +1,3 @@
-# TestNG-unit-test
-TestNG unit test implementation
+# TestNG unit test implementation
+
+Unit test implementation on a simple calculator class.
